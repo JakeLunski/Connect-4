@@ -9,3 +9,7 @@ The discs will fall straight down and occupy the lowest available space of
 the chosen column. The player wins if four of his or her discs are connected
 in a line horizontally, vertically or diagonally.
 See https://en.wikipedia.org/wiki/Connect_Four for more details about the game.
+
+To run:
+
+python connect4.py
